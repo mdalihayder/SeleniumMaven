@@ -1,3 +1,4 @@
+//Selenium (Eclipse> Maven> Git> Jenkins)
 package JPay;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
@@ -18,7 +19,7 @@ public class TestCase {
 
 	  @BeforeClass
 
-	  // Passing Browser parameter from TestNG xml
+	  // Passing Browser parameter from TestNG xml File.
 
 	  public void beforeTest(String browser) {
 
